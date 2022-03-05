@@ -1,2 +1,2 @@
-# Matlab-Assignment-1
+# Matlab-Assignment
 Cracking the Hill Cypher
